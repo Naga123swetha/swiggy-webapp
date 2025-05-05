@@ -15,7 +15,7 @@ public class SwiggyServlet extends HttpServlet {
         out.println("<html><head><title>Swiggy</title></head>");
         out.println("<body style='font-family:sans-serif;text-align:center;margin-top:50px;'>");
         out.println("<h1>Welcome to Swiggy Web Application</h1>");
-        out.println("<p>Order food online from your favorite restaurants!</p>");
+        out.println("<p>Order food online from your favorite restaurants</p>");
         out.println("</body></html>");
     }
 }
